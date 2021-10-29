@@ -10,3 +10,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0249. ✅ test: increase coverage on auth module
 0388. 🎨 style: reformat files with black
+0050. ✨ feat: enable dark mode toggle
