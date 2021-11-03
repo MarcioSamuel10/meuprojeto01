@@ -17,3 +17,4 @@
 0149. ✨ feat: add export to CSV option
 0509. ♻️ chore: bump dependencies
 0815. 🔧 refactor: split large controller into smaller functions
+0252. 🎨 style: remove trailing whitespace
