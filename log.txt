@@ -20,3 +20,4 @@
 0252. 🎨 style: remove trailing whitespace
 0085. ✨ feat: support email verification
 0135. ✅ test: test user registration edge cases
+0835. 🐛 fix: prevent crash on empty input
