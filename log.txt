@@ -22,3 +22,4 @@
 0135. ✅ test: test user registration edge cases
 0835. 🐛 fix: prevent crash on empty input
 0508. ✅ test: add unit test for quiz service
+0223. 🔧 refactor: remove redundant code blocks
