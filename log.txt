@@ -25,3 +25,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0176. 🔧 refactor: remove redundant code blocks
 0023. 📚 docs: clarify environment setup
+0940. 📚 docs: document token refresh logic
