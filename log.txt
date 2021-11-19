@@ -28,3 +28,4 @@
 0940. 📚 docs: document token refresh logic
 0795. 📚 docs: update README with setup steps
 0363. 📚 docs: clarify environment setup
+0051. ✨ feat: enable dark mode toggle
