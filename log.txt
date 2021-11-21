@@ -30,3 +30,4 @@
 0363. 📚 docs: clarify environment setup
 0051. ✨ feat: enable dark mode toggle
 0318. 🔧 refactor: refactor quiz grading logic
+0341. 🚀 perf: lazy-load components
