@@ -39,3 +39,4 @@
 0098. 🎨 style: rename variables for clarity
 0549. ✨ feat: enable dark mode toggle
 0643. 🎨 style: apply consistent indentation
+0511. 🐛 fix: fix broken CSS in mobile view
