@@ -44,3 +44,4 @@
 0454. ♻️ chore: bump dependencies
 0666. 🐛 fix: fix broken CSS in mobile view
 0266. 🔧 refactor: remove redundant code blocks
+0618. ✨ feat: support email verification
