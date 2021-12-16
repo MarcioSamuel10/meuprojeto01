@@ -50,3 +50,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0788. 📚 docs: add API usage examples
 0812. 🔧 refactor: refactor quiz grading logic
+0122. ✨ feat: support email verification
