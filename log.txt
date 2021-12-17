@@ -51,3 +51,4 @@
 0788. 📚 docs: add API usage examples
 0812. 🔧 refactor: refactor quiz grading logic
 0122. ✨ feat: support email verification
+0276. ✅ test: add integration test for /submit endpoint
