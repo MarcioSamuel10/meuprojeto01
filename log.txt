@@ -67,3 +67,4 @@
 0314. ✨ feat: implement quiz timer feature
 0990. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
+0575. ✅ test: add unit test for quiz service
