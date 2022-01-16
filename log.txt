@@ -69,3 +69,4 @@
 0749. ✨ feat: support email verification
 0575. ✅ test: add unit test for quiz service
 0234. ♻️ chore: rename env.example
+0121. ✨ feat: support email verification
