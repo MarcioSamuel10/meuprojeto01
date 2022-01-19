@@ -71,3 +71,4 @@
 0234. ♻️ chore: rename env.example
 0121. ✨ feat: support email verification
 0928. 🎨 style: apply consistent indentation
+0272. 🔧 refactor: remove redundant code blocks
