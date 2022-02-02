@@ -77,3 +77,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0096. 🐛 fix: prevent crash on empty input
 0886. ♻️ chore: clean up unused files
+0365. 🚀 perf: reduce image load time
