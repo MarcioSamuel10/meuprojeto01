@@ -80,3 +80,4 @@
 0365. 🚀 perf: reduce image load time
 0082. 🔧 refactor: refactor quiz grading logic
 0977. 🔧 refactor: organize models into subfolders
+0333. 🚀 perf: cache repeated calculations
