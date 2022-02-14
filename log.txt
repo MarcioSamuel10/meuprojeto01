@@ -92,3 +92,4 @@
 0970. ♻️ chore: update .gitignore
 0049. 🐛 fix: handle 500 error in quiz API
 0553. 🐛 fix: correct typo in registration form
+0635. 🎨 style: apply consistent indentation
