@@ -94,3 +94,4 @@
 0553. 🐛 fix: correct typo in registration form
 0635. 🎨 style: apply consistent indentation
 0311. 🎨 style: apply consistent indentation
+0565. ♻️ chore: add GitHub actions badge
