@@ -101,3 +101,4 @@
 0146. 🎨 style: apply consistent indentation
 0968. 🎨 style: standardize quote style
 0133. 🐛 fix: fix null pointer exception on login
+0196. ♻️ chore: bump dependencies
