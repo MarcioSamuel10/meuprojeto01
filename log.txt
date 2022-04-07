@@ -124,3 +124,4 @@
 0083. 🎨 style: reformat files with black
 0699. 🎨 style: standardize quote style
 0490. ✨ feat: create admin dashboard
+0165. 🎨 style: remove trailing whitespace
