@@ -129,3 +129,4 @@
 0592. 📚 docs: add API usage examples
 0772. 🐛 fix: fix null pointer exception on login
 0739. 🎨 style: remove trailing whitespace
+0902. ✨ feat: enable dark mode toggle
