@@ -138,3 +138,4 @@
 0356. 📚 docs: write FAQ section
 0564. 📚 docs: clarify environment setup
 0785. ✨ feat: enable dark mode toggle
+0052. 🎨 style: standardize quote style
