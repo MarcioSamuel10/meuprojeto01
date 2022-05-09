@@ -143,3 +143,4 @@
 0851. ✅ test: mock database connection in test suite
 0864. 🐛 fix: correct typo in registration form
 0430. 🐛 fix: fix null pointer exception on login
+0621. 🔧 refactor: clean up auth middleware
