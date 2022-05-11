@@ -144,3 +144,4 @@
 0864. 🐛 fix: correct typo in registration form
 0430. 🐛 fix: fix null pointer exception on login
 0621. 🔧 refactor: clean up auth middleware
+0018. 🔧 refactor: organize models into subfolders
