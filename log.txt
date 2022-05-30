@@ -155,3 +155,4 @@
 0076. 🎨 style: reformat files with black
 0420. 🚀 perf: reduce image load time
 0033. 🎨 style: apply consistent indentation
+0612. ✅ test: test user registration edge cases
