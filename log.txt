@@ -157,3 +157,4 @@
 0033. 🎨 style: apply consistent indentation
 0612. ✅ test: test user registration edge cases
 0570. 🎨 style: apply consistent indentation
+0158. 📚 docs: clarify environment setup
