@@ -164,3 +164,4 @@
 0743. 🎨 style: apply consistent indentation
 0128. ♻️ chore: rename env.example
 0577. ✨ feat: implement quiz timer feature
+0585. 🚀 perf: lazy-load components
