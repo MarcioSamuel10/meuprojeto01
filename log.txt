@@ -176,3 +176,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0153. ♻️ chore: rename env.example
 0664. ✅ test: add unit test for quiz service
+0653. 🐛 fix: prevent crash on empty input
