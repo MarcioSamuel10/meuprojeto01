@@ -200,3 +200,4 @@
 0227. ✅ test: test user registration edge cases
 0838. 🎨 style: standardize quote style
 0605. ✨ feat: support email verification
+0026. 🔧 refactor: clean up auth middleware
