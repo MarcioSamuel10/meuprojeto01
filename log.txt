@@ -202,3 +202,4 @@
 0605. ✨ feat: support email verification
 0026. 🔧 refactor: clean up auth middleware
 0779. 🔧 refactor: organize models into subfolders
+0320. 📚 docs: update README with setup steps
