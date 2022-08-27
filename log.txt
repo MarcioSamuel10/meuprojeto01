@@ -205,3 +205,4 @@
 0320. 📚 docs: update README with setup steps
 0209. ✨ feat: implement quiz timer feature
 0646. ✅ test: test user registration edge cases
+0395. 📚 docs: write FAQ section
