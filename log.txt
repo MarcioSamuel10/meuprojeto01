@@ -206,3 +206,4 @@
 0209. ✨ feat: implement quiz timer feature
 0646. ✅ test: test user registration edge cases
 0395. 📚 docs: write FAQ section
+0878. 🔧 refactor: split large controller into smaller functions
