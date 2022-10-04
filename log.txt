@@ -230,3 +230,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0352. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
+0760. 🐛 fix: resolve issue with date parsing
