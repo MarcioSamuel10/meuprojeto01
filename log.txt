@@ -240,3 +240,4 @@
 0463. 🚀 perf: reduce image load time
 0473. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
+0438. ♻️ chore: bump dependencies
