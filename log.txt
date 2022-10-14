@@ -243,3 +243,4 @@
 0438. ♻️ chore: bump dependencies
 0674. 🔧 refactor: split large controller into smaller functions
 0331. 🐛 fix: fix broken CSS in mobile view
+0501. ✨ feat: add export to CSV option
