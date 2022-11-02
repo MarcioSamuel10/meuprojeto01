@@ -256,3 +256,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0007. 🎨 style: rename variables for clarity
 0544. 🔧 refactor: organize models into subfolders
+0721. 🚀 perf: optimize database query for quiz results
