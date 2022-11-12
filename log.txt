@@ -267,3 +267,4 @@
 0232. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
 0317. ✅ test: test user registration edge cases
+0720. ✨ feat: add export to CSV option
