@@ -273,3 +273,4 @@
 0690. 🚀 perf: lazy-load components
 0925. ✨ feat: add export to CSV option
 0164. 📚 docs: document token refresh logic
+0174. 📚 docs: clarify environment setup
