@@ -280,3 +280,4 @@
 0901. ✨ feat: add user authentication
 0271. ✅ test: add unit test for quiz service
 0528. ♻️ chore: clean up unused files
+0556. ✨ feat: support email verification
