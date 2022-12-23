@@ -296,3 +296,4 @@
 0956. 📚 docs: clarify environment setup
 0974. ✨ feat: add export to CSV option
 0631. ✨ feat: create admin dashboard
+0913. 🚀 perf: optimize database query for quiz results
