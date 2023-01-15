@@ -310,3 +310,4 @@
 0884. 📚 docs: clarify environment setup
 0661. ✅ test: add integration test for /submit endpoint
 0453. 🎨 style: standardize quote style
+1000. ✅ test: increase coverage on auth module
