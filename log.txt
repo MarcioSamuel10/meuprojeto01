@@ -311,3 +311,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0453. 🎨 style: standardize quote style
 1000. ✅ test: increase coverage on auth module
+0962. ✨ feat: create admin dashboard
