@@ -320,3 +320,4 @@
 0385. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
 0409. 🚀 perf: lazy-load components
+0647. 🐛 fix: prevent crash on empty input
