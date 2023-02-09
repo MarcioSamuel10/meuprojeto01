@@ -323,3 +323,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0303. 🎨 style: rename variables for clarity
 0218. 🔧 refactor: clean up auth middleware
+0484. 🐛 fix: handle 500 error in quiz API
