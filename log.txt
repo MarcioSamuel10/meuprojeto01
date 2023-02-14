@@ -326,3 +326,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0071. 🔧 refactor: refactor quiz grading logic
 0514. 🐛 fix: fix broken CSS in mobile view
+0684. 🚀 perf: reduce image load time
