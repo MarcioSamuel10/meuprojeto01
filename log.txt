@@ -327,3 +327,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0514. 🐛 fix: fix broken CSS in mobile view
 0684. 🚀 perf: reduce image load time
+0215. 🎨 style: reformat files with black
