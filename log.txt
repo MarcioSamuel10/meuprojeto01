@@ -328,3 +328,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0684. 🚀 perf: reduce image load time
 0215. 🎨 style: reformat files with black
+0709. ♻️ chore: bump dependencies
