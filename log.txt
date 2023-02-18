@@ -331,3 +331,4 @@
 0709. ♻️ chore: bump dependencies
 0811. 🎨 style: reformat files with black
 0268. 🐛 fix: prevent crash on empty input
+0797. 📚 docs: add API usage examples
