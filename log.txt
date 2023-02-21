@@ -333,3 +333,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0797. 📚 docs: add API usage examples
 0432. 🎨 style: apply consistent indentation
+0873. 🚀 perf: cache repeated calculations
