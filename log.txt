@@ -335,3 +335,4 @@
 0432. 🎨 style: apply consistent indentation
 0873. 🚀 perf: cache repeated calculations
 0936. 🔧 refactor: organize models into subfolders
+0194. 🎨 style: standardize quote style
