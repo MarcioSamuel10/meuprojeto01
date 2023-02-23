@@ -337,3 +337,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0194. 🎨 style: standardize quote style
 0685. ✅ test: test user registration edge cases
+0780. 📚 docs: add API usage examples
