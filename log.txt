@@ -340,3 +340,4 @@
 0780. 📚 docs: add API usage examples
 0198. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
+0842. 🎨 style: remove trailing whitespace
