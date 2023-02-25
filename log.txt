@@ -339,3 +339,4 @@
 0685. ✅ test: test user registration edge cases
 0780. 📚 docs: add API usage examples
 0198. 📚 docs: clarify environment setup
+0934. ✨ feat: support email verification
