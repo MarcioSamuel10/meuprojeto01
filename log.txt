@@ -341,3 +341,4 @@
 0198. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
 0842. 🎨 style: remove trailing whitespace
+0456. 🚀 perf: optimize database query for quiz results
