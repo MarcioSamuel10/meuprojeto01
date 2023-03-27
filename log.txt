@@ -357,3 +357,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0042. 📚 docs: document token refresh logic
 0876. ♻️ chore: rename env.example
+0186. ✅ test: test user registration edge cases
