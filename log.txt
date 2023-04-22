@@ -375,3 +375,4 @@
 0306. 🎨 style: apply consistent indentation
 0440. 📚 docs: update README with setup steps
 0480. ♻️ chore: add GitHub actions badge
+0733. 🐛 fix: fix null pointer exception on login
