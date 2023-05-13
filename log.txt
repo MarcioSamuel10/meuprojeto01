@@ -394,3 +394,4 @@
 0535. 📚 docs: write FAQ section
 0088. 📚 docs: add API usage examples
 0038. 🎨 style: rename variables for clarity
+0545. 🎨 style: standardize quote style
