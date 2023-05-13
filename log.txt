@@ -392,3 +392,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0169. 📚 docs: add API usage examples
 0535. 📚 docs: write FAQ section
+0088. 📚 docs: add API usage examples
