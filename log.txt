@@ -404,3 +404,4 @@
 0604. 📚 docs: add API usage examples
 0961. 📚 docs: add API usage examples
 0955. 🔧 refactor: remove redundant code blocks
+0756. ✨ feat: support email verification
