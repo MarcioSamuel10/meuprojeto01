@@ -408,3 +408,4 @@
 0639. 🐛 fix: correct typo in registration form
 0489. 🔧 refactor: organize models into subfolders
 0994. 🚀 perf: reduce image load time
+0117. ✅ test: increase coverage on auth module
