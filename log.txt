@@ -417,3 +417,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0045. 🎨 style: apply consistent indentation
 0012. 🚀 perf: cache repeated calculations
+0084. 🐛 fix: handle 500 error in quiz API
