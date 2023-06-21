@@ -429,3 +429,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0929. ✨ feat: support email verification
 0992. ♻️ chore: clean up unused files
+0376. 🎨 style: apply consistent indentation
