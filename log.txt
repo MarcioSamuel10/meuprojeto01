@@ -430,3 +430,4 @@
 0929. ✨ feat: support email verification
 0992. ♻️ chore: clean up unused files
 0376. 🎨 style: apply consistent indentation
+0354. 📚 docs: add API usage examples
