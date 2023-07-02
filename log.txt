@@ -434,3 +434,4 @@
 0091. ✨ feat: add user authentication
 0636. ✅ test: increase coverage on auth module
 0389. 📚 docs: improve code comments in utils
+0852. ✨ feat: enable dark mode toggle
