@@ -442,3 +442,4 @@
 0844. 📚 docs: update README with setup steps
 0081. 🐛 fix: fix null pointer exception on login
 0237. 🎨 style: standardize quote style
+0843. 📚 docs: document token refresh logic
