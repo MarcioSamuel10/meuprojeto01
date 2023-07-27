@@ -444,3 +444,4 @@
 0237. 🎨 style: standardize quote style
 0843. 📚 docs: document token refresh logic
 0965. 🎨 style: reformat files with black
+0063. 🐛 fix: handle 500 error in quiz API
