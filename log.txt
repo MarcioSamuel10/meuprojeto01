@@ -450,3 +450,4 @@
 0850. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
 0155. ✨ feat: create admin dashboard
+0615. 🐛 fix: correct typo in registration form
