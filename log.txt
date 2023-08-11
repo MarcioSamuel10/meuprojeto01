@@ -451,3 +451,4 @@
 0115. 🚀 perf: reduce image load time
 0155. ✨ feat: create admin dashboard
 0615. 🐛 fix: correct typo in registration form
+0502. 📚 docs: update README with setup steps
