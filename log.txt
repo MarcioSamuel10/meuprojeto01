@@ -459,3 +459,4 @@
 0567. 📚 docs: add API usage examples
 0832. 🔧 refactor: remove redundant code blocks
 0116. ✨ feat: support email verification
+0588. 🔧 refactor: organize models into subfolders
