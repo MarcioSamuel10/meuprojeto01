@@ -467,3 +467,4 @@
 0519. 📚 docs: document token refresh logic
 0504. 📚 docs: document token refresh logic
 0079. 🐛 fix: correct typo in registration form
+0576. ♻️ chore: update .gitignore
