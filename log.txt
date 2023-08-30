@@ -466,3 +466,4 @@
 0606. 📚 docs: improve code comments in utils
 0519. 📚 docs: document token refresh logic
 0504. 📚 docs: document token refresh logic
+0079. 🐛 fix: correct typo in registration form
