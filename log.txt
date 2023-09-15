@@ -481,3 +481,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0074. ♻️ chore: add GitHub actions badge
 0065. ✅ test: add integration test for /submit endpoint
+0349. ✅ test: increase coverage on auth module
