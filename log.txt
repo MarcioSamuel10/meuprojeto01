@@ -493,3 +493,4 @@
 0554. 📚 docs: improve code comments in utils
 0406. ✨ feat: add export to CSV option
 0305. ✨ feat: enable dark mode toggle
+0942. ✅ test: increase coverage on auth module
