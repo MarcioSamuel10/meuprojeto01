@@ -496,3 +496,4 @@
 0942. ✅ test: increase coverage on auth module
 0056. ♻️ chore: rename env.example
 0659. 📚 docs: add API usage examples
+0590. 🐛 fix: fix null pointer exception on login
