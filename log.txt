@@ -503,3 +503,4 @@
 0185. 📚 docs: write FAQ section
 0910. 🎨 style: remove trailing whitespace
 0336. ✨ feat: add export to CSV option
+0246. ✅ test: add integration test for /submit endpoint
