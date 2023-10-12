@@ -505,3 +505,4 @@
 0336. ✨ feat: add export to CSV option
 0246. ✅ test: add integration test for /submit endpoint
 0278. 🔧 refactor: clean up auth middleware
+0296. 🔧 refactor: organize models into subfolders
