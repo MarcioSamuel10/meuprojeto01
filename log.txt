@@ -521,3 +521,4 @@
 0862. ♻️ chore: bump dependencies
 0572. ✨ feat: add user authentication
 0424. ✨ feat: add user authentication
+0450. 🐛 fix: fix broken CSS in mobile view
