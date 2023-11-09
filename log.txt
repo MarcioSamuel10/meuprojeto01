@@ -527,3 +527,4 @@
 0470. 🎨 style: remove trailing whitespace
 0113. ✨ feat: add user authentication
 0166. 🚀 perf: cache repeated calculations
+0442. 🎨 style: standardize quote style
