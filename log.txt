@@ -529,3 +529,4 @@
 0166. 🚀 perf: cache repeated calculations
 0442. 🎨 style: standardize quote style
 0021. ✨ feat: support email verification
+0920. 🔧 refactor: organize models into subfolders
