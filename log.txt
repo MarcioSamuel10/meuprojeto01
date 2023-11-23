@@ -534,3 +534,4 @@
 0104. 🎨 style: apply consistent indentation
 0703. 🔧 refactor: clean up auth middleware
 0574. ✨ feat: enable dark mode toggle
+0120. ✅ test: add integration test for /submit endpoint
