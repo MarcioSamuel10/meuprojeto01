@@ -542,3 +542,4 @@
 0954. 🚀 perf: cache repeated calculations
 0013. ✅ test: increase coverage on auth module
 0979. 🎨 style: standardize quote style
+0300. ✨ feat: add export to CSV option
