@@ -544,3 +544,4 @@
 0979. 🎨 style: standardize quote style
 0300. ✨ feat: add export to CSV option
 0530. 🔧 refactor: refactor quiz grading logic
+0894. ✅ test: add integration test for /submit endpoint
