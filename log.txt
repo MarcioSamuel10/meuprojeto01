@@ -559,3 +559,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0222. 🐛 fix: handle 500 error in quiz API
 0210. 🎨 style: apply consistent indentation
+0594. 🎨 style: reformat files with black
