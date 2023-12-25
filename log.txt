@@ -561,3 +561,4 @@
 0210. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
 0836. 🚀 perf: optimize database query for quiz results
+0020. ✅ test: add integration test for /submit endpoint
