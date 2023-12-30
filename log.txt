@@ -566,3 +566,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0595. ✨ feat: enable dark mode toggle
 0191. 🔧 refactor: refactor quiz grading logic
+0767. 🔧 refactor: remove redundant code blocks
