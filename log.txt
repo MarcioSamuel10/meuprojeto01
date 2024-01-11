@@ -579,3 +579,4 @@
 0781. 🚀 perf: reduce image load time
 0584. 🚀 perf: lazy-load components
 0302. ✨ feat: implement quiz timer feature
+0206. 🐛 fix: handle 500 error in quiz API
