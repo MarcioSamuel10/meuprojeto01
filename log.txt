@@ -585,3 +585,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0087. ✨ feat: add export to CSV option
 0001. 🚀 perf: cache repeated calculations
+0648. ♻️ chore: bump dependencies
