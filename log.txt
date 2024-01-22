@@ -587,3 +587,4 @@
 0001. 🚀 perf: cache repeated calculations
 0648. ♻️ chore: bump dependencies
 0805. ♻️ chore: add GitHub actions badge
+0600. 🐛 fix: prevent crash on empty input
