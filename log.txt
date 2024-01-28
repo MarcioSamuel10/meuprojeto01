@@ -590,3 +590,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0799. ♻️ chore: clean up unused files
 0964. ♻️ chore: clean up unused files
+0144. ✅ test: increase coverage on auth module
