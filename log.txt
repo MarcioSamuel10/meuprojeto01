@@ -595,3 +595,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0680. ♻️ chore: add GitHub actions badge
 0630. 🚀 perf: lazy-load components
+0295. 🎨 style: remove trailing whitespace
