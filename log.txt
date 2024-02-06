@@ -598,3 +598,4 @@
 0295. 🎨 style: remove trailing whitespace
 0290. ✅ test: test user registration edge cases
 0740. 🐛 fix: resolve issue with date parsing
+0485. 📚 docs: update README with setup steps
