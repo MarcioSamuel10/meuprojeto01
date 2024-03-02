@@ -616,3 +616,4 @@
 0745. ✅ test: add unit test for quiz service
 0467. ✅ test: add integration test for /submit endpoint
 0717. 🔧 refactor: refactor quiz grading logic
+0669. ✨ feat: enable dark mode toggle
