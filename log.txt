@@ -620,3 +620,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
 0593. 🐛 fix: correct typo in registration form
+0016. 🎨 style: apply consistent indentation
