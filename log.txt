@@ -628,3 +628,4 @@
 0102. ✨ feat: support email verification
 0689. 🎨 style: reformat files with black
 0855. 🎨 style: reformat files with black
+0656. 🎨 style: apply consistent indentation
