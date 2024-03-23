@@ -631,3 +631,4 @@
 0656. 🎨 style: apply consistent indentation
 0807. 🔧 refactor: remove redundant code blocks
 0971. 🎨 style: standardize quote style
+0958. 🐛 fix: prevent crash on empty input
