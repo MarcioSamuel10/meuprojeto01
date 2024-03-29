@@ -636,3 +636,4 @@
 0112. ✨ feat: enable dark mode toggle
 0477. 🐛 fix: fix broken CSS in mobile view
 0476. 🚀 perf: reduce image load time
+0926. 🔧 refactor: organize models into subfolders
