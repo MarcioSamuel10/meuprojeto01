@@ -637,3 +637,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0476. 🚀 perf: reduce image load time
 0926. 🔧 refactor: organize models into subfolders
+0583. ✅ test: increase coverage on auth module
