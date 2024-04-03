@@ -639,3 +639,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0583. ✅ test: increase coverage on auth module
 0693. 📚 docs: add API usage examples
+0437. 📚 docs: clarify environment setup
