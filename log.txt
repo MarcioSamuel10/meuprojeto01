@@ -641,3 +641,4 @@
 0693. 📚 docs: add API usage examples
 0437. 📚 docs: clarify environment setup
 0599. ✅ test: test user registration edge cases
+0667. ✨ feat: add export to CSV option
