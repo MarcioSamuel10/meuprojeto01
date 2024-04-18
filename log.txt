@@ -644,3 +644,4 @@
 0667. ✨ feat: add export to CSV option
 0148. 🔧 refactor: organize models into subfolders
 0611. ✅ test: test user registration edge cases
+0634. 🎨 style: reformat files with black
