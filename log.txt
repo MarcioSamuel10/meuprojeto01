@@ -650,3 +650,4 @@
 0308. 🚀 perf: reduce image load time
 0152. ✨ feat: add user authentication
 0162. ♻️ chore: add GitHub actions badge
+0904. ✨ feat: implement quiz timer feature
