@@ -661,3 +661,4 @@
 0691. 🎨 style: rename variables for clarity
 0747. 🔧 refactor: clean up auth middleware
 0796. 🔧 refactor: refactor quiz grading logic
+0578. ✅ test: add integration test for /submit endpoint
