@@ -665,3 +665,4 @@
 0407. 🚀 perf: cache repeated calculations
 0204. 🎨 style: standardize quote style
 0287. 📚 docs: write FAQ section
+0596. ♻️ chore: update .gitignore
