@@ -677,3 +677,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0481. ✅ test: add unit test for quiz service
 0262. 🎨 style: remove trailing whitespace
+0275. 🎨 style: standardize quote style
