@@ -683,3 +683,4 @@
 0195. 📚 docs: clarify environment setup
 0543. ✨ feat: support email verification
 0419. 🎨 style: remove trailing whitespace
+0332. 🎨 style: standardize quote style
