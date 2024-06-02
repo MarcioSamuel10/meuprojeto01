@@ -688,3 +688,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0914. ✅ test: test user registration edge cases
 0059. ♻️ chore: bump dependencies
+0523. ♻️ chore: bump dependencies
