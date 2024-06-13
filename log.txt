@@ -695,3 +695,4 @@
 0854. ♻️ chore: rename env.example
 0006. 🐛 fix: prevent crash on empty input
 0932. ✅ test: add integration test for /submit endpoint
+0981. 🚀 perf: lazy-load components
