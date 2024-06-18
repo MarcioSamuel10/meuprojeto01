@@ -700,3 +700,4 @@
 0431. 🎨 style: reformat files with black
 0969. ✨ feat: create admin dashboard
 0935. 📚 docs: update README with setup steps
+0672. 🐛 fix: fix broken CSS in mobile view
