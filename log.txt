@@ -725,3 +725,4 @@
 0412. ✅ test: increase coverage on auth module
 0813. 🔧 refactor: organize models into subfolders
 0044. ✅ test: add unit test for quiz service
+0896. 🚀 perf: reduce image load time
