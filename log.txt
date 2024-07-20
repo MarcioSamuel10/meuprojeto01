@@ -726,3 +726,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0044. ✅ test: add unit test for quiz service
 0896. 🚀 perf: reduce image load time
+0265. 🎨 style: reformat files with black
