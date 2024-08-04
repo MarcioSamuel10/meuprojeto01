@@ -730,3 +730,4 @@
 0687. 🎨 style: remove trailing whitespace
 0307. ✨ feat: support email verification
 0580. ♻️ chore: bump dependencies
+0775. 🐛 fix: fix null pointer exception on login
