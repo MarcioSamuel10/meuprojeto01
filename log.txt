@@ -736,3 +736,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0637. 🎨 style: apply consistent indentation
 0931. 🚀 perf: reduce image load time
+0722. 📚 docs: add API usage examples
