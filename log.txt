@@ -750,3 +750,4 @@
 0099. 🚀 perf: reduce image load time
 0757. 🔧 refactor: remove redundant code blocks
 0111. 📚 docs: update README with setup steps
+0090. ✅ test: increase coverage on auth module
