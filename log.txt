@@ -753,3 +753,4 @@
 0090. ✅ test: increase coverage on auth module
 0110. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
+0603. 🐛 fix: fix broken CSS in mobile view
