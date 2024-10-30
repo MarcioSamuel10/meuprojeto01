@@ -785,3 +785,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0027. 📚 docs: clarify environment setup
 0682. ♻️ chore: rename env.example
+0335. ♻️ chore: update .gitignore
