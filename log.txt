@@ -786,3 +786,4 @@
 0027. 📚 docs: clarify environment setup
 0682. ♻️ chore: rename env.example
 0335. ♻️ chore: update .gitignore
+0662. ♻️ chore: clean up unused files
