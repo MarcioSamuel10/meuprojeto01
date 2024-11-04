@@ -788,3 +788,4 @@
 0335. ♻️ chore: update .gitignore
 0662. ♻️ chore: clean up unused files
 0286. ✅ test: mock database connection in test suite
+0670. ✨ feat: add export to CSV option
