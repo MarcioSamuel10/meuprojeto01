@@ -806,3 +806,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0777. 📚 docs: document token refresh logic
 0893. 🐛 fix: handle 500 error in quiz API
+0922. 📚 docs: write FAQ section
