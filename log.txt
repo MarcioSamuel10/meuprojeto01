@@ -816,3 +816,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0655. 🚀 perf: cache repeated calculations
 0330. ✅ test: test user registration edge cases
+0451. ✨ feat: support email verification
