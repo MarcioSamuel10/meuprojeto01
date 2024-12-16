@@ -825,3 +825,4 @@
 0755. 🚀 perf: cache repeated calculations
 0858. ♻️ chore: clean up unused files
 0244. ✨ feat: add export to CSV option
+0930. 🎨 style: apply consistent indentation
