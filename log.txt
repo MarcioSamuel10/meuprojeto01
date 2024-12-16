@@ -826,3 +826,4 @@
 0858. ♻️ chore: clean up unused files
 0244. ✨ feat: add export to CSV option
 0930. 🎨 style: apply consistent indentation
+0092. 🚀 perf: reduce image load time
