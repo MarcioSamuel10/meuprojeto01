@@ -831,3 +831,4 @@
 0219. ✅ test: increase coverage on auth module
 0622. 🎨 style: apply consistent indentation
 0003. ✅ test: increase coverage on auth module
+0726. ✨ feat: enable dark mode toggle
