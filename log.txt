@@ -833,3 +833,4 @@
 0003. ✅ test: increase coverage on auth module
 0726. ✨ feat: enable dark mode toggle
 0178. ✨ feat: support email verification
+0729. 🔧 refactor: refactor quiz grading logic
