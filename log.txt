@@ -850,3 +850,4 @@
 0037. 🐛 fix: correct typo in registration form
 0324. 📚 docs: document token refresh logic
 0362. 📚 docs: add API usage examples
+0856. 🐛 fix: fix null pointer exception on login
