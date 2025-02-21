@@ -871,3 +871,4 @@
 0005. ✅ test: add unit test for quiz service
 0619. ✨ feat: create admin dashboard
 0022. 📚 docs: document token refresh logic
+0010. ✨ feat: add user authentication
