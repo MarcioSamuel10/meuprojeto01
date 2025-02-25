@@ -872,3 +872,4 @@
 0619. ✨ feat: create admin dashboard
 0022. 📚 docs: document token refresh logic
 0010. ✨ feat: add user authentication
+0967. ♻️ chore: add GitHub actions badge
