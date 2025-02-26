@@ -873,3 +873,4 @@
 0022. 📚 docs: document token refresh logic
 0010. ✨ feat: add user authentication
 0967. ♻️ chore: add GitHub actions badge
+0908. ♻️ chore: bump dependencies
