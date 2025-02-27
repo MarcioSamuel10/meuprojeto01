@@ -875,3 +875,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0908. ♻️ chore: bump dependencies
 0683. ✅ test: mock database connection in test suite
+0986. 📚 docs: document token refresh logic
