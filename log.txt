@@ -877,3 +877,4 @@
 0683. ✅ test: mock database connection in test suite
 0986. 📚 docs: document token refresh logic
 0411. ✅ test: add unit test for quiz service
+0041. 🐛 fix: fix broken CSS in mobile view
