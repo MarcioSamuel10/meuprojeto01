@@ -932,3 +932,4 @@
 0387. ✨ feat: enable dark mode toggle
 0224. 🐛 fix: fix broken CSS in mobile view
 0927. ♻️ chore: bump dependencies
+0551. 📚 docs: write FAQ section
