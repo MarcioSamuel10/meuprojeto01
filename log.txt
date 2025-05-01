@@ -934,3 +934,4 @@
 0927. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
 0987. ✨ feat: create admin dashboard
+0792. 🎨 style: standardize quote style
