@@ -935,3 +935,4 @@
 0551. 📚 docs: write FAQ section
 0987. ✨ feat: create admin dashboard
 0792. 🎨 style: standardize quote style
+0976. ✨ feat: implement quiz timer feature
