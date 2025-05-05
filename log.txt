@@ -940,3 +940,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0105. 🐛 fix: correct typo in registration form
 0394. 🚀 perf: lazy-load components
+0732. ♻️ chore: add GitHub actions badge
