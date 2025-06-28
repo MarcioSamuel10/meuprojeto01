@@ -982,3 +982,4 @@
 0980. 🎨 style: reformat files with black
 0444. ✅ test: add unit test for quiz service
 0759. 🔧 refactor: organize models into subfolders
+0203. 🚀 perf: lazy-load components
